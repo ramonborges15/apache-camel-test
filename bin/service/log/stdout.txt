@@ -1,0 +1,25 @@
+
+2020-10-17 09:59:07 Commons Daemon procrun stdout initialized
+INFO 09:59:49.861 - Using default implementation for ThreadExecutor
+INFO 09:59:50.095 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+INFO 09:59:50.095 - Quartz Scheduler v.2.3.2 created.
+INFO 09:59:50.096 - Registering Quartz Job Initialization Plug-in.
+INFO 09:59:50.901 - RAMJobStore initialized.
+INFO 09:59:50.902 - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'ApacheCamelQuartz' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO 09:59:50.902 - Quartz scheduler 'ApacheCamelQuartz' initialized from the specified file : 'C:\Users\ramon.sales\Documents\NetBeansProjects\apache-camel-app\conf/quartz.properties'
+INFO 09:59:50.902 - Quartz scheduler version: 2.3.2
+INFO 09:59:50.902 - -----================== INICIO DO SISTEMA ==================-------------
+INFO 09:59:50.902 - -----================== INICIO DO SISTEMA ==================-------------
+INFO 09:59:51.241 - Parsing XML file: ../conf/configuracao-agendador.xml with systemId: ../conf/configuracao-agendador.xml
+INFO 09:59:51.751 - Deleting all jobs in ALL groups.
+INFO 09:59:51.751 - Deleting all triggers in ALL groups.
+INFO 09:59:51.751 - Adding 1 jobs, 1 triggers.
+INFO 09:59:51.752 - Adding job: GrupoJobRotinaTransferenciaApacheCamelMiddleware.JobRotinaTransferenciaApacheCamelMiddleware
+INFO 09:59:51.775 - Scheduler ApacheCamelQuartz_$_NON_CLUSTERED started.

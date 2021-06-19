@@ -1,0 +1,26 @@
+<pedidos>
+	<pedido>
+		<remetente>Lucas Veríssimo</remetente>
+		<descricao>
+			<tipo>Pizza</tipo>
+			<sabor>Portuguesa</sabor>
+		</descricao>
+		<preco>45.52</preco>
+	</pedido>
+	<pedido>
+		<remetente>Maria Freitas</remetente>
+		<descricao>
+			<tipo>Hamburguer</tipo>
+			<sabor>Vegano</sabor>
+		</descricao>
+		<preco>30.52</preco>
+	</pedido>
+	<pedido>
+		<remetente>Ramon Borges</remetente>
+		<descricao>
+			<tipo>Açai</tipo>
+			<sabor>Açai</sabor>
+		</descricao>
+		<preco>20.52</preco>
+	</pedido>
+</pedidos>
